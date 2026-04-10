@@ -1,29 +1,52 @@
 # 👩‍💻 Karen Francellino  
 
-📍 Tarragona, España | 🌍 Português · Español · English  
-🎯 Estudiante de programación C++ | Buscando oportunidad de prácticas o traine en desarrollo de software  
-📚 Formación en Mecatrónica | Experiencia en calidad y procesos tecnológicos  
+📍 Tarragona, Spain  
+🌍 Portuguese · Spanish · English  
+
+🚀 Junior Developer | C++ | Web Development | AR Experience  
 
 ---
 
-## 🚀 Sobre mi
-- Estudiando **C++** (Deusto Formación, 2024) y **CS50’s Introduction to Computer Science (Harvard, 2025)**  
-- Interés en: desarrollo en **C++**, algoritmos, estructuras de datos y sistemas tecnológicos  
-- Soft skills: **resolución de problemas, liderazgo, organización, adaptabilidad multicultural**
+## 🚀 About Me
+I'm a junior developer with a technical background in mechatronics and hands-on experience building interactive applications.
+
+Currently focused on:
+- C++ development
+- Algorithms & Data Structures
+- Software fundamentals (CS50 - Harvard)
+
+💡 I enjoy solving problems and building real-world applications.
 
 ---
 
-## 🛠️ Tecnologías
-- **Lenguages:** C++  
-- **Herramientas:** Git, GitHub, VS Code  
+## 💼 Experience
+
+### 🧩 AR Character App (Droyz Toys)
+Worked on an interactive mobile application featuring a 3D animated character.
+
+**My contributions:**
+- Developed Web AR interactions using JavaScript
+- Implemented camera-based features (photo/video)
+- Worked on front-end logic and user interaction
 
 ---
 
-## 📂 Proyectos Destacados
-- 🧮 **Algoritmos en C++** → colección de ejercícios de lógica y estructuras de datos  
-- 📑 **Agenda de Contactos en C++** → CRUD básico en consola  
+## 🛠 Tech Stack
+- **Languages:** C++, JavaScript, HTML, CSS  
+- **Tools:** Git, GitHub, VS Code, FlutterFlow (basic)  
+
 ---
 
-## 📫 Contacto
-- Email: **karen.francellino@outlook.com**  
-- LinkedIn: [http://linkedin.com/in/karen-francellino-823baa69](#)  
+## 📂 Featured Projects
+
+### 🧮 C++ Algorithms & Data Structures
+Collection of problem-solving exercises focused on logic and performance.
+
+### 📑 Contact Management System (C++)
+Console-based CRUD application for managing contacts.
+
+---
+
+## 📫 Contact
+- 📧 karen.francellino@outlook.com  
+- 💼 LinkedIn: https://linkedin.com/in/karen-francellino-823baa69 
